@@ -1,3 +1,5 @@
 node_modules
 .idea
 server/data
+.c9
+public/vendor
